@@ -25,7 +25,8 @@ export default function Error({ error, reset }: ErrorProps) {
           <div className="error-buttons">
             <button
               onClick={() => reset()}
-              className="theme-btn btn-style-one me-3">
+              className="theme-btn btn-style-one me-3"
+            >
               Try Again
             </button>
             <Link href="/" className="theme-btn btn-style-two">

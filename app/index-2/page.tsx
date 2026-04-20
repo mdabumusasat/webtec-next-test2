@@ -12,7 +12,7 @@ import Contact from "@/components/sections/Home2/Contact";
 import News from "@/components/sections/Home2/News";
 
 export const metadata = {
-  title: "Home2 - Webtec React Next Js Template",
+  title: "Home 2 - Webtec React Next Js Template",
 };
 
 export default function Home2() {

@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import { DM_Sans, Inter } from "next/font/google";
 import "swiper/css";
 import "swiper/css/navigation";
-// import "../public/css/bootstrap.min.css";
-// import "../public/css/style-home-2.css";
-// import "../public/css/style-home-3.css";
-// import "../public/css/style.css";
+import "../public/css/bootstrap.min.css";
+import "../public/css/style-home-2.css";
+import "../public/css/style-home-3.css";
+import "../public/css/style.css";
 import Preloader from "@/components/elements/Preloader";
 
 const dmSans = DM_Sans({
